@@ -10,6 +10,7 @@
 - [Introduction](#introduction)
 - [Requirements](#requirements)
 - [Quick Start](#quick-start)
+- [Screenshots](#screenshots)
 
 ## Introduction
 
@@ -84,4 +85,5 @@ Application will run by default on port `8080`
 
 If you want to run `both` servers on the same machine, use __Docker Compose__.
 
-##Screenshot
+##  Screenshots
+![web_ter](https://user-images.githubusercontent.com/64182789/128839550-3332099a-58d0-4f2d-971c-f39ed10f826d.png)

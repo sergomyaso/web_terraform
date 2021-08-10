@@ -1,7 +1,7 @@
 <h1 align="center"> Web_terraform </h1> <br>
 
 <p align="center">
-  A simple web service based on a microservice architecture
+  A simple web service based on a microservice architecture with golang and Vue.js
 </p>
 
 
